@@ -121,10 +121,3 @@ Built as part of my deep learning journey, exploring the effectiveness of both c
 
 ---
 
-```
-
-Let me know if you want:
-- A `requirements.txt` file auto-generated
-- To export this README as a `.md` file
-- Or include the exact augmentation settings you used (`rotation_range`, `zoom_range`, etc.) in the README too.
-```
