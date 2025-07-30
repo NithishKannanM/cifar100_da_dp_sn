@@ -48,7 +48,7 @@ Trained using:
 Run:
 
 ```bash
-python scratch_model.py
+python scratch_model.ipynb
 ````
 
 ### 🔄 Transfer Learning with ResNet-50
@@ -60,7 +60,7 @@ python scratch_model.py
 Run:
 
 ```bash
-python resnet50_transfer.py
+python resnet50_transfer_learning.ipynb
 ```
 
 ---
