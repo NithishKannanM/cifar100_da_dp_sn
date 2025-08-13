@@ -10,19 +10,6 @@ This project demonstrates image classification on the **CIFAR-100 dataset** usin
 
 ---
 
-## 📁 Project Structure
-
-```
-
-cifar100-classification/
-├── scratch\_model.py          # CNN from scratch with DA, LR scheduler, early stop
-├── resnet50\_transfer.py      # Transfer learning with ResNet-50 (optional)
-├── utils.py                  # Data preprocessing and callbacks
-├── requirements.txt
-└── README.md
-
-````
-
 ---
 
 ## 🧠 Dataset
